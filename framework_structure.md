@@ -18,6 +18,8 @@ A concise, structured prompt framework distilled from a prompt engineering cours
 
 ## Canonical JSON template
 
+Example instance: [`prompt_example_jsom.md`](prompt_example_jsom.md)
+
 ```json
 {
   "prompt": {
@@ -51,6 +53,8 @@ A concise, structured prompt framework distilled from a prompt engineering cours
 ```
 
 ## Canonical XML template
+
+Example instance: [`prompt_example_xml.md`](prompt_example_xml.md)
 
 ```xml
 <prompt>

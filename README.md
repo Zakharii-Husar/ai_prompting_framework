@@ -3,8 +3,8 @@
 ## Overview
 Central place for my prompt engineering notes and the minimal framework I use in practice.
 
-- Framework structure: see `framework_structure.md`
-- Prompt format preference (JSON vs XML): see `prompt_format_preference.md`
+- Framework structure: [`framework_structure.md`](framework_structure.md)
+- Prompt format preference (JSON vs XML): [`prompt_format_preference.md`](prompt_format_preference.md)
 
 ---
 
@@ -117,3 +117,5 @@ I have filled in the gaps with the definitions and added sections from the docum
 ## Related docs
 - Framework structure: [`framework_structure.md`](framework_structure.md)
 - Prompt format preference (JSON vs XML): [`prompt_format_preference.md`](prompt_format_preference.md)
+- Prompt example (XML): [`prompt_example_xml.md`](prompt_example_xml.md)
+- Prompt example (JSON): [`prompt_example_jsom.md`](prompt_example_jsom.md)
